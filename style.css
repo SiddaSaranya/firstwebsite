@@ -1,0 +1,37 @@
+
+.container{
+    background-image: url(./chat.jpg);
+    margin: 0%;
+    font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.name{
+    background-color:#323f4b;
+    color:#ffff;
+    text-align: center;
+    padding-top: 4px;
+    margin-bottom: 67px;
+    height: 90px;
+}
+.inside{
+    background-color: #47a3f3;
+    padding: 9px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-bottom-right-radius: 0px;
+    color: #ffffff;
+    text-align:right;
+    font-size: large;
+}
+.outside{
+    background-color:#52606d;
+    padding: 9px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-bottom-left-radius: 0px;
+    color: #ffffff;
+    font-size: large;
+}
